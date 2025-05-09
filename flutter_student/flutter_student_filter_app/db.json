@@ -1,0 +1,52 @@
+{
+  "inscription": [
+    {
+      "id": 1,
+      "nom": "Graham",
+      "prenom": "Leanne",
+      "classe": "L1 MAE",
+      "matricule": "MAT001",
+      "email": "leanne.graham@etu.edu"
+    },
+    {
+      "id": 2,
+      "nom": "Bauch",
+      "prenom": "Clementine",
+      "classe": "L2 GEA",
+      "matricule": "MAT002",
+      "email": "clementine.bauch@etu.edu"
+    },
+    {
+      "id": 3,
+      "nom": "Lebsack",
+      "prenom": "Patricia",
+      "classe": "L1 MAE",
+      "matricule": "MAT003",
+      "email": "patricia.lebsack@etu.edu"
+    },
+    {
+      "id": 4,
+      "nom": "Schulist",
+      "prenom": "Dennis",
+      "classe": "L3 INFO",
+      "matricule": "MAT004",
+      "email": "dennis.schulist@etu.edu"
+    },
+    {
+      "id": 5,
+      "nom": "Reichert",
+      "prenom": "Glenna",
+      "classe": "L2 GEA",
+      "matricule": "MAT005",
+      "email": "glenna.reichert@etu.edu"
+    },
+    {
+      "id": 6,
+      "nom": "DuBuque",
+      "prenom": "Clementina",
+      "classe": "L3 INFO",
+      "matricule": "MAT006",
+      "email": "clementina.dubuque@etu.edu"
+    }
+  ]
+}
